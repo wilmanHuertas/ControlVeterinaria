@@ -1,0 +1,162 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Veteterinaria Mundo Animal";
+}
+
+
+<!--INICIO DEL CONTENEDOR  ESTE ES EL CONTENIDO QUE CAMBIA SEGUN  LOS DIFERENTES PANELES -->
+
+<div class="container-fluid">
+    <!--No eliminen esta fila-->
+    <section class="inicio">
+        <div class="row">
+            <!--No eliminen esta fila-->
+            <h1 class="display-3">Veterinaria<br>&nbsp Mundo Animal</h1><br>
+            <p class="lead">Atención integral para tu mascota</p>
+            <!--<hr class="my-2"> -->
+            <p>En Veteterinaria Mundo Animal hacemos todo<br>por la salud y el cuidado de tu mascota</p>
+            <p>Déjanos tus datos de contacto y obtenga la<br>primera consulta general gratis para una mascota</p> <br><br>
+            <p class="lead"> <br>
+                <a class="btn btn-primary btn-lg" href="registrarse" role="button">Quiero registrarme</a>
+            </p>
+            <p>Ya está registrado? <a href="iniciar-sesion">Ingresar al sistema</a> </p>
+            <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+                <!-- Carousel indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+                <!-- Carousel items -->
+            </div>
+            <!--No eliminen esta etiqueta-->
+
+    </section>
+    <!------------------->
+    <div class="row">
+        <!--No eliminen esta fila-->
+        <!--<div class="text-center"> -->
+        <p><br>
+        <h2 class="display-3">Nuestros servicios</h2>
+        </p><br><br>
+        <section class="servicios">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="card">
+                        <img src="~/img/01_cat.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Consulta general</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <img src="~/img/imgvacuna.png" class="card-img-top" alt="...">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Consulta especializada</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <img src="~/img/04_cat_dog.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Urgencias veterinarias</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <img src="~/img/03_bird.jpg" class="card-img-top" alt="...">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Medicina preventiva</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><br><br>
+
+        <section class="otros_servicios">
+            <p>
+            <h4 class="display-3">Otros servicios</h4>
+            </p><br><br>
+
+            <div class="row">
+
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="~/img/dog_maltese.jpg" class="card-img-top" alt="...">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Nutrición</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Ir a la tienda</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="~/img/01_cat.jpg" class="card-img-top" alt="...">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Farmacia</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Ir a la farmacia</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="~/img/02_cats1.jpg" class="card-img-top" alt="...">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Programa de bienestar animal</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Ir al programa</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="inicio">
+            <div class="row">
+                <!--No eliminen esta fila-->
+
+                <h2 class="display-3">Cómo llegar</h2>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3974.294365997962!2d-75.49507698523624!3d5.055954596330229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e476564a7bfefc7%3A0xc1e29e2ea369afb6!2sUniversidad%20de%20Caldas!5e0!3m2!1ses!2sco!4v1663063219115!5m2!1ses!2sco"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+            </div>
+            <!--No eliminen esta etiqueta-->
+        </section>
+
+    </div>
+    <!--FIN  DEL CONTENEDOR-->
+
+    <!--<h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> -->

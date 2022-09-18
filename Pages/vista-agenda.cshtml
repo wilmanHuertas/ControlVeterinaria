@@ -1,0 +1,67 @@
+﻿@page
+@model paginaprueba1.app.vista_agendaModel
+@{
+}
+<br><br>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header   bg-info text-center">
+                        <h1 style="color:white">AGENDAR CITA</h1>
+                    </div><br><br>
+                    <div class="card-body  border border-info"></div>
+                    <form>
+                        <br>
+                        <div class="col-12">
+                            <br>
+                            <div class="row justify-content-center">
+                                <div class="col-1">
+                                    <label for="veterinario">Veterinario</label>
+                                </div>
+                                <div class="col-2">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="floatingSelectGrid">
+                                            <option selected>Veterinario</option>
+                                            <option value="1">Mironel</option>
+                                            <option value="2">Wilman</option>
+                                            <option value="3">Elquin</option>
+                                            <option value="4">Marilyn</option>
+                                            <option value="5">Martin</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+                            <div class="row justify-content-center">
+                                <div class="col-1">
+                                    <label for="fecha">Fecha</label>
+                                </div>
+                                <div class="col-2">
+                                    <input type="date" required name="date" id="date">
+                                </div>
+                            </div>
+                            <br>
+                            <div class="row justify-content-center">
+                                <div class="col-1">
+                                    <label for="hora">Hora</label>
+                                </div>
+                                <div class="col-2">
+                                    <input type="time" required name="hora" id="hora">
+                                </div>
+                                <br>
+                            </div>
+                            <br>
+                            <div class="row">
+                                <div class="col-md-6 offset-md-5">
+                                    <button type="button" class="btn btn-primary">Agendar cita</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

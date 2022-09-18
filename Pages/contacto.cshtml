@@ -1,0 +1,40 @@
+﻿@page
+@model paginaprueba1.app.contactoModel
+@{
+}
+<div class="card">
+  <div class="card-header bg-info text-center">
+    <h1 style="color:white">Formulario de contacto</h1>
+  </div>
+  <div class="card-body  border border-info">
+    <form class="text-left">
+      <form class="register-form">
+        <div class="mb-3">
+          <label for="formGroupExampleInput2" class="form-label">Nombres</label>
+          <input type="text" class="form-control" id="txtNombres" placeholder="Nombre completo" required>
+        </div>
+        <div class="mb-3">
+          <label for="formGroupExampleInput2" class="form-label">Teléfono</label>
+          <input type="text" class="form-control" id="txtTelefono" placeholder="Teléfono de contacto" required>
+        </div>
+
+        <div class="mb-3">
+          <label for="exampleInputEmail1" class="form-label">Correo electrónico</label>
+          <input type="email" class="form-control" id="txtEmail" aria-describedby="emailHelp"
+            placeholder="ejemplo@correo.com" required>
+        </div>
+
+        <div class="mb-3">
+          <label for="exampleFormControlTextarea1" class="form-label">Escribe tus comentarios aquí</label>
+          <textarea class="form-control" id="txtTexto" rows="5" required> </textarea>
+          <hr>
+          <div class="d-grid">
+            <button type="submit" value="contacto" class="btn btn-lg btn-primary">Enviar comentarios</button>
+          </div>
+        </div>
+
+      </form>
+
+    </form>
+  </div>
+</div>
