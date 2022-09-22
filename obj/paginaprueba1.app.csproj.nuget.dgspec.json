@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectoVeterinaria\\ControlVeterinaria\\paginaprueba1.app.csproj": {}
+    "C:\\controlVeterinaria\\paginaprueba1.app.csproj": {}
   },
   "projects": {
-    "C:\\proyectoVeterinaria\\ControlVeterinaria\\paginaprueba1.app.csproj": {
+    "C:\\controlVeterinaria\\paginaprueba1.app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectoVeterinaria\\ControlVeterinaria\\paginaprueba1.app.csproj",
+        "projectUniqueName": "C:\\controlVeterinaria\\paginaprueba1.app.csproj",
         "projectName": "paginaprueba1.app",
-        "projectPath": "C:\\proyectoVeterinaria\\ControlVeterinaria\\paginaprueba1.app.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectoVeterinaria\\ControlVeterinaria\\obj\\",
+        "projectPath": "C:\\controlVeterinaria\\paginaprueba1.app.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\controlVeterinaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
