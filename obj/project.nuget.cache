@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fRG6tx/zCUWY1nqBkKU2sVnQk9JagcYAACHi2/f5BMa8yN8VJrhTmyAbwbfmjsh4lkxZvVBKqqgNe2zwlGxANg==",
+  "dgSpecHash": "xYtPgC5RyY4wKf7OB3SR6obJ7zvcBfSLvOjhE+j4vqekStltWZsDj5Lu1f/z6oAXzFDWNBkyrf2GdUE1SqjH8A==",
   "success": true,
-  "projectFilePath": "C:\\paginaprueba1.app\\paginaprueba1.app.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Veterinaria\\ControlVeterinaria\\paginaprueba1.app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }
