@@ -1,0 +1,7 @@
+C:\ControlVeterinaria\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\ControlVeterinaria\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\ControlVeterinaria\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\ControlVeterinaria\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\ControlVeterinaria\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\ControlVeterinaria\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\ControlVeterinaria\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

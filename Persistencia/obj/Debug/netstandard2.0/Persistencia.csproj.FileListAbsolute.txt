@@ -1,0 +1,4 @@
+C:\ControlVeterinaria\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\ControlVeterinaria\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\ControlVeterinaria\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\ControlVeterinaria\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache

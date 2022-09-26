@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\controlVeterinaria\\paginaprueba1.app.csproj": {}
+    "C:\\ControlVeterinaria\\paginaprueba1.app.csproj": {}
   },
   "projects": {
-    "C:\\controlVeterinaria\\paginaprueba1.app.csproj": {
+    "C:\\ControlVeterinaria\\paginaprueba1.app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\controlVeterinaria\\paginaprueba1.app.csproj",
+        "projectUniqueName": "C:\\ControlVeterinaria\\paginaprueba1.app.csproj",
         "projectName": "paginaprueba1.app",
-        "projectPath": "C:\\controlVeterinaria\\paginaprueba1.app.csproj",
+        "projectPath": "C:\\ControlVeterinaria\\paginaprueba1.app.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\controlVeterinaria\\obj\\",
+        "outputPath": "C:\\ControlVeterinaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
