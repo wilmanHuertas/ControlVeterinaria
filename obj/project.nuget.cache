@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JDBc+w87fW9aKZW7nnME2LV8P6bfMhzKWCvGomdQOZ72gJPYUdVTGe09eFvWUXQQ5SznZ3e7C+vKsObvHSUnRw==",
+  "dgSpecHash": "vQNIRSQVkQAThSeDpDkb25BoxO/ZQbtlJK13NWricfqknYrKp3ZFd7mjWm6zSSi1S6BKGIxzEWW/uGgeTHe8Dg==",
   "success": true,
-  "projectFilePath": "C:\\proyectoVeterinaria\\ControlVeterinaria\\paginaprueba1.app.csproj",
+  "projectFilePath": "C:\\controlVeterinaria\\paginaprueba1.app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
