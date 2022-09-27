@@ -9,5 +9,6 @@ namespace Dominio
         public int telefono { get; set; }
         public string contraseña { get; set; }
         public string perfil { get; set; }
+        public string correo {get;set;}
     }
 }
