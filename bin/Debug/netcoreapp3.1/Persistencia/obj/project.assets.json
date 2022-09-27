@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyectoVeterinaria\\ControlVeterinaria\\Pertsistencia\\Pertsistencia.csproj",
-      "projectName": "Pertsistencia",
-      "projectPath": "C:\\proyectoVeterinaria\\ControlVeterinaria\\Pertsistencia\\Pertsistencia.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\proyectoVeterinaria\\ControlVeterinaria\\Pertsistencia\\obj\\",
+      "projectUniqueName": "C:\\ControlVeterinaria\\Persistencia\\Persistencia.csproj",
+      "projectName": "Persistencia",
+      "projectPath": "C:\\ControlVeterinaria\\Persistencia\\Persistencia.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\ControlVeterinaria\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
