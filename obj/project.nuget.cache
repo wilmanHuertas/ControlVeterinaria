@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "vQNIRSQVkQAThSeDpDkb25BoxO/ZQbtlJK13NWricfqknYrKp3ZFd7mjWm6zSSi1S6BKGIxzEWW/uGgeTHe8Dg==",
+  "dgSpecHash": "shTQwd7MLAgCJSWaVl4RSV/ebS8aa47xEHi6bFB7CSZYyvMhXEK/MJwpRujf7xCiDLpFlbOpKL1itYe+bHOXaQ==",
   "success": true,
-  "projectFilePath": "C:\\controlVeterinaria\\paginaprueba1.app.csproj",
+  "projectFilePath": "C:\\ramamartin\\controlVeterinaria\\paginaprueba1.app.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\ramamartin\\controlVeterinaria\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

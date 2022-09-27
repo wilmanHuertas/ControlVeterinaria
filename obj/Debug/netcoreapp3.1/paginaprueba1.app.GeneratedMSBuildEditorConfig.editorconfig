@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = paginaprueba1.app
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Veterinaria\ControlVeterinaria\
+=======
 build_property.ProjectDir = c:\ControlVeterinaria\
+>>>>>>> 6828e123e641b58818c4ddebcc5ec6040e2dbdb6

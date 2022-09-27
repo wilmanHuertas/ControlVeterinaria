@@ -2,8 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+<<<<<<< HEAD
+=======
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+>>>>>>> 6828e123e641b58818c4ddebcc5ec6040e2dbdb6
   </PropertyGroup>
 
 </Project>

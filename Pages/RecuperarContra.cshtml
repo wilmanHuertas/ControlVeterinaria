@@ -1,0 +1,18 @@
+﻿@page
+@model paginaprueba1.app.Pages.RecuperarContraModel
+@{
+}
+<div class="login-box-body">
+  <p class="login-box-msg">Ingrese su correo electrónico</p>
+  <form method="POST" id="mi_form">
+    <div class="form-group has-feedback">
+      <input type="email" class="form-control" placeholder="E-mail">
+      <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+    </div>
+    <div class="row">      
+      <div class="col-xs-12">
+        <button type="submit" name="recuperar" id="recuperar" class="btn btn-primary btn-block btn-flat" data-toggle="modal" data-target="#message">Enviar</button>
+      </div>
+    </div>
+  </form>
+</div>

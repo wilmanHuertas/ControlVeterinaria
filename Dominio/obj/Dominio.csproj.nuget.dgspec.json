@@ -1,6 +1,22 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\proyectoVeterinaria\\ControlVeterinaria\\Dominio\\Dominio.csproj": {}
+  },
+  "projects": {
+    "C:\\proyectoVeterinaria\\ControlVeterinaria\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectoVeterinaria\\ControlVeterinaria\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\proyectoVeterinaria\\ControlVeterinaria\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\proyectoVeterinaria\\ControlVeterinaria\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
     "C:\\ControlVeterinaria\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
@@ -15,6 +31,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 6828e123e641b58818c4ddebcc5ec6040e2dbdb6
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
