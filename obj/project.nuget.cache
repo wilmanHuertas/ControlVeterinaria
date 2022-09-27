@@ -1,17 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xYtPgC5RyY4wKf7OB3SR6obJ7zvcBfSLvOjhE+j4vqekStltWZsDj5Lu1f/z6oAXzFDWNBkyrf2GdUE1SqjH8A==",
+  "dgSpecHash": "shTQwd7MLAgCJSWaVl4RSV/ebS8aa47xEHi6bFB7CSZYyvMhXEK/MJwpRujf7xCiDLpFlbOpKL1itYe+bHOXaQ==",
   "success": true,
-  "projectFilePath": "C:\\Veterinaria\\ControlVeterinaria\\paginaprueba1.app.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Veterinaria\\ControlVeterinaria\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "projectFilePath": "C:\\ramamartin\\controlVeterinaria\\paginaprueba1.app.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
 }
