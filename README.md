@@ -5,8 +5,8 @@ En el video no se logra apreciar la parte del codigo, intentamos hasta ultimo mo
 Finalmente aprendimos bastante en este ciclo sobre todo a luchar contra la frustracion :) pero tambien sobre el lenguaje C#, Sql Server desde Manager Studio donde tambien creamos la base de datos desde codigo e hicimos las relaciones tambien desde codigo, tambien el uso de Bootstrap y Boostwatch con lo que pudimos hacer una aplicacion visualmente muy estetica y profesional, y principalmente el uso de GitHub y su manejo de versiones que nos parecio muy interesante, para concluir consideramos que este ciclo fue bastante pesado, debiamos aprender muchas cosas en muy poco tiempo y lo verdaderamente importante es aprender, consideramos que nos falto tiempo para presentar algo mas completo, dicho esto esperamos su comprension y agradecemos principalmente el conocimiento adquirido.
 
 RESPONSABLES DEL PROYECTO:
-                            Wilman Frank Huertas Orjuela -  Líder
-                            Martín Plazas Andrade – Desarrollador de software
-                            Mironel Castellar T - Diseñador UI
-                            Elquin Ortega - Administrador
-                            Marilyn Celine Nieto Morea - Tester
+                           - Wilman Frank Huertas Orjuela (Líder)
+                           - Martín Plazas Andrade (Desarrollador de software)
+                           - Mironel Castellar T (Diseñador UI)
+                           - Elquin Ortega (Administrador)
+                           - Marilyn Celine Nieto Morea (Tester)
