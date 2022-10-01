@@ -11,12 +11,11 @@ namespace Persistencia
         public appContext(DbContextOptions<appContext> options) : base(options)
         {
         }
-
-        public DbSet<Persona> personas {get;set;}
-        public DbSet<Veterinario> veterinarios {get;set;}
-        public DbSet<AsistenteVeterinaria> asistentes {get;set;}
-        public DbSet<Mascota> mascotas {get;set;}
-        public DbSet<AgendaCitas> citas {get;set;}
+        public DbSet<Persona> Personas {get;set;}
+        public DbSet<Veterinario> Veterinarios {get;set;}
+        public DbSet<AsistenteVeterinaria> Asistentes {get;set;}
+        public DbSet<Mascota> Mascotas {get;set;}
+        public DbSet<AgendaCitas> Citas {get;set;}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

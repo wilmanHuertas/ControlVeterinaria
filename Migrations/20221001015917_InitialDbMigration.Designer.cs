@@ -10,7 +10,7 @@ using Persistencia;
 namespace paginaprueba1.app.Migrations
 {
     [DbContext(typeof(appContext))]
-    [Migration("20220930225258_InitialDbMigration")]
+    [Migration("20221001015917_InitialDbMigration")]
     partial class InitialDbMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
