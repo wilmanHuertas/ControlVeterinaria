@@ -7,8 +7,10 @@ namespace Dominio
 {
     public class AsistenteVeterinaria
     {
-        public int docResponsable {get;set;}
+        public int Id {get;set;}
+        public ulong docVeterinaria {get;set;}
+        public ulong docResponsable {get;set;}
         public string nombreResponsable {get;set;}
-        public int telefono {get;set;}
+        public uint telefono {get;set;}
     }
 }

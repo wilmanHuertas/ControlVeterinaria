@@ -4,9 +4,10 @@ namespace Dominio
 {
     public class Persona
     {
-        public int documento { get; set; }
+        public int Id {get;set;}
+        public ulong documento { get; set; }
         public string nombreCompleto { get; set; }
-        public int telefono { get; set; }
+        public uint telefono { get; set; }
         public string contraseña { get; set; }
         public string perfil { get; set; }
         public string correo {get;set;}

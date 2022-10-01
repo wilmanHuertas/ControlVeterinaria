@@ -7,8 +7,8 @@ namespace Dominio
 {
     public class Mascota
     {
-        public int idMascota {get;set;}
-        public int docDueño {get;set;}
+        public int Id {get;set;}
+        public ulong docDueño {get;set;}
         public string nombreMascota {get;set;}
         public int edadMascota {get;set;}
         public string tipoMascota {get;set;}
