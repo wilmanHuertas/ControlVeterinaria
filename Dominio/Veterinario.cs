@@ -7,8 +7,8 @@ namespace Dominio
 {
     public class Veterinario
     {
-        public int docVeterinario {get;set;}
-        public int numMatriProfesional {get;set;}
-        public int rutVeterinaria {get;set;}
+        public int Id {get;set;}
+        public uint docVeterinario {get;set;}
+        public uint numMatriProfesional {get;set;}
     }
 }
